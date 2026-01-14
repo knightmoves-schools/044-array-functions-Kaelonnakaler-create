@@ -1,3 +1,3 @@
 let automobiles = [ "helicopter", "car", "truck", "motorcycle", "airplane",];
-let automobilesCopy = ('automobiles');
+let automobilesCopy = 'automoblies';
 document.getElementById("result").innerHTML = automobiles;
