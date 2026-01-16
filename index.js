@@ -8,9 +8,10 @@ let automobilesCopy= `${automobiles}`;
 
 automobiles.pop();
 
-automoblies.shift();
+automobiles.shift();
 
 document.getElementById("result").innerHTML = automobiles;
+
 
 
 
